@@ -6,3 +6,6 @@ sch: https://www.google.com/search?q=BMEP+engine
 
 Discussion:
 https://www.eng-tips.com/viewthread.cfm?qid=215499
+
+## Diesel
+https://www.sae.org/publications/technical-papers/content/2013-01-1622/
